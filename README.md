@@ -11,7 +11,8 @@ Now, we know what you may be thinking: _"Duh. It gets hotter..."_
 
 But, if pressed, how would you **prove** it?
 
-![Equator](Images/equatorsign.png)
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](https://utsa.bootcampcontent.com/utsa-bootcamp/utsa-san-data-pt-12-2020-u-c/-/raw/master/02-Homework/05-Matplotlib/Instructions/Images/Laboratory.jpg)
 
 ### Before You Begin
 
